@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimminent
 - 👀 I’m interested in videogame design
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
