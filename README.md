@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jimminent
-- 👀 I’m interested in videogame design
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in all things computer science (I'm studying that in college)
+- 🌱 I’m currently learning SQL and Web Development
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
 
 <!---
 Jimminent/Jimminent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
